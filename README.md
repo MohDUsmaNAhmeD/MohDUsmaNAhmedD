@@ -1,7 +1,7 @@
-<img align="top" width="100vw" src="https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1060&t=st=1723145838~exp=1723146438~hmac=7dce30b51059548e66e4220516c20d48470175d1f614d108ea6b5c6c8753519d">
+<img align="top" width="1000" src="https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1060&t=st=1723145838~exp=1723146438~hmac=7dce30b51059548e66e4220516c20d48470175d1f614d108ea6b5c6c8753519d">
 <h1 align="center">Me?👋Hi I'm Mohammad Usman</h1>
 <h3 align="center">A younger passionate web dev from Pakistan🤗</h3>
-<img align="right" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="right" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"autoplay >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdusmanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohdusmanahmed" /> </p>
 
